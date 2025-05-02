@@ -118,8 +118,13 @@ def lambda_handler(event, context):
 - Type '/summarize' you will get summarized logs
 
 ## **Some Images of output**
+![Screenshot 2025-05-02 172217](https://github.com/user-attachments/assets/1831292a-bda1-4dc8-a1af-0abfc1eff8c3)
 
+![Screenshot 2025-05-02 172237](https://github.com/user-attachments/assets/dfec7a7d-abc7-4439-ae8a-2f9e7cc293c8)
 
+![Screenshot 2025-05-02 172430](https://github.com/user-attachments/assets/e18b4af5-ec63-433b-adac-b5a5fbd919fa)
+
+![Screenshot 2025-05-02 214625](https://github.com/user-attachments/assets/c0894795-9e75-4ddd-b1d8-dde6fa96ffb3)
 
 ## Contributing
 We welcome contributions! To contribute:
