@@ -88,7 +88,7 @@ def summarize_logs_with_mistral(log_text):
 
 
 def send_summary_to_slack(summary):
-    slack_webhook_url = "https://hooks.slack.com/services/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"
+    slack_webhook_url = "your slack webhook url"
     payload = {
         "text": f"📦 *Deployment Summary:*\n\n{summary}"
     }
