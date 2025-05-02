@@ -117,6 +117,9 @@ def lambda_handler(event, context):
 - Type `/deploy` your CICD will be Triggered
 - Type '/summarize' you will get summarized logs
 
+## **Some Images of output**
+
+
 
 ## Contributing
 We welcome contributions! To contribute:
